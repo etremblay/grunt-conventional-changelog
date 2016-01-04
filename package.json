@@ -30,7 +30,7 @@
   "dependencies": {
     "chalk": "^1.1.0",
     "concat-stream": "^1.5.0",
-    "conventional-changelog": "^0.5.0",
+    "conventional-changelog": "git+https://github.com/kronostechnologies/conventional-changelog.git#a5f87abe41bb8f1eb201344e33b22329cac9dcf6",
     "plur": "^2.0.0",
     "q": "^1.4.1"
   },
